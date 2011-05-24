@@ -1,3 +1,8 @@
 build
 settings.yaml
 todo
+*#
+*.#*
+*~
+.DS_Store
+companyNews.war
